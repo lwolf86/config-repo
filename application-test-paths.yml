@@ -1,0 +1,5 @@
+lwolf:
+  common:
+    paths:
+      WebApi: http://baidu.com/AccountWebAPI/
+      MailWebApi: http://baidu.com/MailWebAPI/
